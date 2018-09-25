@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajmaljalal/Natours.git"
+  },
+  "author": "Ajmal Jalal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajmaljalal/Natours/issues"
+  },
+  "homepage": "https://github.com/Ajmaljalal/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {}
+}
